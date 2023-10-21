@@ -1,5 +1,6 @@
 // Java is OOPs 
 //Every code starts with class
+//changes requiered
 //Standard, File name and class name should be same id class is not public
 //if class is public, file name and class name must be same
 class SecondClass{
